@@ -83,7 +83,7 @@ Security is a top priority. Calmo operates with read-only access to ensure that 
 ## Contact & Support
 
 - **Schedule a Free Trial:**  
-  [Request a Free Trial](https://calendly.com) to see how Calmo can transform your incident management.
+  [Request a Free Trial](https://getcalmo.com) to see how Calmo can transform your incident management.
 
 - **Learn More:**  
   Visit our [About Us](https://getcalmo.com/about-us) page for more details on our team and mission.
